@@ -1,4 +1,4 @@
-# Baby To Born (baby_lite)
+# Diary
 
 A Quasar Framework app
 
